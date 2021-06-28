@@ -285,9 +285,9 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ### Demo
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![kakyire's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kakyire)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![kakyire's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kakyire&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - Compact layout
 
